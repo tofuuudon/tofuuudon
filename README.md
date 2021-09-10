@@ -6,7 +6,7 @@
 - 💖 In love with VIM.
 - 🍣 Sushi is my go-to for lunch-breaks.
 
-## My VIM
+## My VIM setup
 
 ```bash
 set number
