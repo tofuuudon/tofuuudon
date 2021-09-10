@@ -22,39 +22,40 @@ Plug 'wincent/command-t'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'jdhao/better-escape.vim'
-Plug 'airblade/vim-gitgutter'
 Plug 'w0rp/ale'
 Plug 'machakann/vim-highlightedyank'
 Plug 'mcchrish/nnn.vim'
 Plug 'pechorin/any-jump.vim'
 Plug 'kshenoy/vim-signature'
 Plug 'valloric/youcompleteme'
+Plug 'airblade/vim-gitgutter'
+Plug 'kristijanhusak/vim-js-file-import', {'do': 'npm install'}
+Plug 'tpope/vim-fugitive'
 call plug#end()
-
-"Disables YouCompleteMe preview window
-set completeopt-=preview
 
 "Vundle installation
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'ycm-core/YouCompleteMe'
+Plugin 'alvan/vim-closetag'
 call vundle#end()
 filetype plugin indent on
 
+"Theme
 colorscheme onedark
 let g:airline_powerline_fonts = 1
-
 syntax on
 set re=0
+
+let g:closetag_filenames = '*.html,*.xhtml,*.phtml,*.tsx,*.jsx'
+
+"Disables YouCompleteMe preview window
+set completeopt-=preview
 
 "Path tree
 let g:nnn#action = {
       \ '<c-t>': 'tab split',
       \ '<c-x>': 'split',
       \ '<c-v>': 'vsplit' }
-
-"ESC
-let g:better_escape_interval = 400
-let g:better_escape_shortcut = 'kj'
 ```
