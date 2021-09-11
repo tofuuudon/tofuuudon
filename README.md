@@ -8,7 +8,7 @@
 
 ## My VIM setup
 
-```bash
+```vim
 set number
 
 call plug#begin('~/.vim/plugged')
