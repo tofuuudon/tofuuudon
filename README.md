@@ -52,10 +52,26 @@ let g:closetag_filenames = '*.html,*.xhtml,*.phtml,*.tsx,*.jsx'
 
 "Disables YouCompleteMe preview window
 set completeopt-=preview
+nmap <leader>fw <Plug>(YCMFindSymbolInWorkspace)
+nmap <leader>fd <Plug>(YCMFindSymbolInDocument)
 
-"Path tree
+"NNN mapping
 let g:nnn#action = {
       \ '<c-t>': 'tab split',
       \ '<c-x>': 'split',
       \ '<c-v>': 'vsplit' }
+
+"Any jump for ref and def 
+let g:any_jump_disable_default_keybindings = 1
+nnoremap <leader>ff :AnyJump<CR>
+xnoremap <leader>ff :AnyJumpVisual<CR>
+nnoremap <leader>jb :AnyJumpBack<CR>
+nnoremap <leader>jl :AnyJumpLastResults<CR>
+
+"Prettier
+autocmd BufWritePre * PrettierAsync
+
+"ESC
+let g:better_escape_interval = 200
+let g:better_escape_shortcut = 'jj'
 ```
