@@ -69,7 +69,7 @@ nnoremap <leader>jb :AnyJumpBack<CR>
 nnoremap <leader>jl :AnyJumpLastResults<CR>
 
 "Prettier
-autocmd BufWritePre * PrettierAsync
+autocmd BufWritePre *.js,*.jsx,*.mjs,*.ts,*.tsx,*.css,*.less,*.scss,*.json,*.graphql,*.md,*.vue,*.svelte,*.yaml,*.html PrettierAsync
 
 "ESC
 let g:better_escape_interval = 200
