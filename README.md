@@ -16,6 +16,7 @@
 
 ---
 
-## [My Dev Setup](https://github.com/MikeyJL/dev-env)
+## Links
 
-## [My Website](https://mikeylau.uk)
+- [My Dev Setup](https://github.com/MikeyJL/dev-env)
+- [My Website](https://mikeylau.uk)
