@@ -1,5 +1,3 @@
-[![Codewars](https://www.codewars.com/users/MikeyJL/badges/micro)](https://www.codewars.com/users/MikeyJL)
-
 # Hey, I'm Mikey 👋
 
 - 🧑‍🎓 Graduated with a 1st, I'm now embarking on a Master's in Applied AI and Data Science.
@@ -10,13 +8,13 @@
 
 ---
 
+[![Codewars](https://www.codewars.com/users/MikeyJL/badges/large)](https://www.codewars.com/users/MikeyJL)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikeyJL&hide_border=true)](https://git.io/streak-stats)
 
-![Languages](https://wakatime.com/share/@9f46395a-e605-4c32-ba19-6d1ecf42c7bf/f6371e5b-a935-419a-8b18-a80fef1ec532.png)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikeylau)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-## Links
 
 - [My Dev Setup](https://github.com/MikeyJL/dev-env)
 - [My Website](https://mikeylau.uk)
