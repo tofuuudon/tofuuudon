@@ -12,8 +12,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikeyJL&hide_border=true)](https://git.io/streak-stats)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikeylau)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ---
 
 - [My Dev Setup](https://github.com/MikeyJL/dev-env)
