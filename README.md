@@ -10,7 +10,7 @@
 - **HTML/CSS/Javascript/Typescript:** SCSS, Vue, Vuex, Nuxt, React, Next, React Native, Node
 - **PHP:** Laravel
 - **DevOps:** Git, Cypress, Jest
-- **C/C++/C#:** Unity3D, ASP .Net Core
+- **C/C++/C#:** Unity3D
 - **Python:** Pytorch, Tensorflow, SKLearn, STLs (e.g. Threading), Numpy, Pandas, MatPlotLib, ...
 
 ## Stats
