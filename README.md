@@ -29,7 +29,7 @@
 - Pytorch
 - Tensorflow
 - SKLearn
-- Python STLs (e.g. Threading, Numpy, Pandas, MatPlotLib, ...)
+- Python STLs and 3-p-libs (e.g. Itertools, Logging, Threading, Numpy, Pandas, MatPlotLib, ...)
 
 ## Stats
 
