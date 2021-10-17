@@ -7,11 +7,29 @@
 
 ## Stack
 
-- **HTML/CSS/Javascript/Typescript:** SCSS, Vue, Vuex, Nuxt, React, Next, React Native, Node
-- **PHP:** Laravel
-- **DevOps:** Git, Cypress, Jest
-- **C/C++/C#:** Unity3D
-- **Python:** Pytorch, Tensorflow, SKLearn, STLs (e.g. Threading), Numpy, Pandas, MatPlotLib, ...
+### Languages
+
+- HTML
+- CSS/SCSS
+- Javascript/Typescript
+- PHP
+- Python
+- C/C++/C#
+- Java
+
+### Frameworks and other
+
+- Vue/Vuex/Nuxt
+- React/Next/React Native
+- Node
+- Laravel
+- Git
+- Cypress
+- Jest
+- Pytorch
+- Tensorflow
+- SKLearn
+- Python STLs (e.g. Threading), Numpy, Pandas, MatPlotLib, ...
 
 ## Stats
 
