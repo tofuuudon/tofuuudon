@@ -1,13 +1,13 @@
 # 👋🏽 Hey, I'm Mikey:
 
-- 🧑‍🎓 Graduated with a 1st, I'm now embarking on a Master's in Applied AI and Data Science.
+- 🧑‍🎓 Graduated with a 1st in my Master's for Applied AI and Data Science.
 - 🌱 I’m currently learning more about back-end development, data science, and machine learning.
-- 💖 In love with NeoVIM.
+- 💖 NeoVIM fanatic.
 - 🍣 Sushi is my go-to for lunch breaks.
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikey.lau) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikey-lau) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mikey_lau) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikey-lau)
 
 ## 💻 Tech Stack
 
