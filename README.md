@@ -6,6 +6,6 @@
 - 🍣 Sushi is my go-to for lunch breaks.
 
 ## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=MikeyJL&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MikeyJL&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MikeyJL&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeyJL&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
