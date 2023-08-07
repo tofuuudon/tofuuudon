@@ -1,7 +1,6 @@
 # 👋🏽 Hey, I'm Mikey:
 
 - 🧑‍🎓 Graduated with a 1st in my Master's for Applied AI and Data Science.
-- 🌱 I’m currently learning more about back-end development, data science, and machine learning.
 - 💖 NeoVim and LunarVim fanatic.
 - 🍣 Sushi is my go-to for lunch breaks.
 
