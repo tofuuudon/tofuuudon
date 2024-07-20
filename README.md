@@ -1,6 +1,3 @@
-# 👋🏽 Hey, I'm Mikey:
+💖 NeoVim + kitty.
 
-- 🧑‍🎓 Graduated with a 1st in my Master's for Applied AI and Data Science.
-- 💖 NeoVim + kitty.
-- 🍣 Sushi is my go-to for lunch breaks.
-
+🍣 Sushi is my go-to for lunch breaks.
